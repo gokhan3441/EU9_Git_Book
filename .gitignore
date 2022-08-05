@@ -2,5 +2,5 @@
 *.iml
 out
 *.xml
-secret.tx
+secret.txt
 
